@@ -8,8 +8,8 @@ Simple minecraft modpack manager for KVi, KVi's Team and their friends.
  - Select modpack by clicking on a button (with name of your modpack) located on the left side of the window.
  - Find and press green **"play"** button.
  - Wait for dependencies and modpack to install.
- - **(TLauncher)** Follow next part of tutorial labled as **["TLauncher"](https://github.com/KViEternal/KVis-Team-Launcher/tree/main?tab=readme-ov-file#tlauncher)**.
- - **Press play!** 
+ - **(TLauncher users only)** Follow next part of tutorial labled as **["TLauncher"](https://github.com/KViEternal/KVis-Team-Launcher/tree/main?tab=readme-ov-file#tlauncher)**.
+ - **(Everybody) Press play!** 
 ### TLauncher:
  - Go to the TLauncher settings.
  - Find textarea labled as **"Directory: "**.
