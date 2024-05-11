@@ -1,5 +1,5 @@
 # KVis-Team-Launcher
-Simple minecraft modpack manager for KVi, KVi's Team and their friends.
+A straightforward modpack manager for Minecraft, designed specifically for KVi, KVi's team, and their friends.
 ## How to use?
 ### General / Official Minecraft:
  - Install [latest realese](https://github.com/KViEternal/KVis-Team-Launcher/releases).
