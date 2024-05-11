@@ -16,4 +16,4 @@ Simple minecraft modpack manager for KVi, KVi's Team and their friends.
  - Change folder from **"/.minecraft"** to **"/.KVisTeam/Launcher/instances/'Your modpack name'"** (Tip: **".KVisTeam"** folder located in the same directory (folder) as **".minecraft"**)!
  - Continue part of tutorial labled as **["General / Official Minecraft"](https://github.com/KViEternal/KVis-Team-Launcher/tree/main?tab=readme-ov-file#general--official-minecraft)** from place you left it off.
 ## Issues / Question:
-If you have any problems or question, than post it [here](https://github.com/KViEternal/KVis-Team-Launcher/issues)
+If you have any problems or question, than post it [here](https://github.com/KViEternal/KVis-Team-Launcher/issues)!
