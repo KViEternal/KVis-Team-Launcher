@@ -9,12 +9,12 @@ A straightforward modpack manager for Minecraft, designed specifically for KVi, 
  - Find and press the green **"play"** button.
  - Wait for dependencies and modpack to install.
  - **(TLauncher Users Only)** Follow the next part of the tutorial labeled as **["TLauncher"](https://github.com/KViEternal/KVis-Team-Launcher/tree/main?tab=readme-ov-file#tlauncher)**.
+ - Choose correct forge/fabric version usually called "KVi's Team Launcher".
  - **(Everybody) Press play!** 
 ### TLauncher:
  - Go to the TLauncher settings.
  - Find the textarea labeled as **"Directory: "**.
  - Change folder from **"/.minecraft"** to **"/.KVisTeam/Launcher/instances/'Your modpack name'"** (Tip: **".KVisTeam"** folder located in the same directory (folder) as **".minecraft"**)!
- - Choose correct forge/fabric version.
  - Continue part of the tutorial labeled as **["General / Official Minecraft"](https://github.com/KViEternal/KVis-Team-Launcher/tree/main?tab=readme-ov-file#general--official-minecraft)** from the place you left it off.
 ## Issues / Question:
 If you have any problems or questions, then post them [here](https://github.com/KViEternal/KVis-Team-Launcher/issues)!
