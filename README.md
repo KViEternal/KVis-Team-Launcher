@@ -23,10 +23,10 @@ If you have any problems or questions, then post them [here](https://github.com/
 Russian:
 ## Как пользоватся?
 ### Основное / Официальный Minecraft:
- - Уснатовка [latest realese](https://github.com/KViEternal/KVis-Team-Launcher/releases).
+ - Уствновка [latest realese](https://github.com/KViEternal/KVis-Team-Launcher/releases).
  - Открыть файл-устоновщик **.exe**.
- - WaПодождать до конца установки.
- - Выберите мод-пак который хотите, названия которых расположены в левой части окна.
+ - Подождать до конца установки.
+ - Выберите мод-пак который хотите, названия расположены в левой части лаунчера.
  - Найдите и нажмите кнопку **"play"**.
  - Подождите пока будет установлен мод-пак и нужные файлы.
  - **(ТОЛЬКО ДЛЯ ПОЛЬЗОВАТЕЛЕЙ TLauncher)** Следуйте части инструкции **["TLauncher"](https://github.com/KViEternal/KVis-Team-Launcher/tree/main?tab=readme-ov-file#tlauncher)**.
