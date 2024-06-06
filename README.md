@@ -39,3 +39,5 @@ Russian:
  - Дальше делайте тоже что написано в **["Основное / Официаотный Minecraft"](https://github.com/KViEternal/KVis-Team-Launcher/tree/main?tab=readme-ov-file#general--official-minecraft)** с места где вы закончили.
 ## Ошибки / Вопросы:
 Если у вас есть проблемы или вопросы, напиши сюда: [here](https://github.com/KViEternal/KVis-Team-Launcher/issues)!
+
+переводчик [Abrosss42](https://github.com/Abrosss42)
