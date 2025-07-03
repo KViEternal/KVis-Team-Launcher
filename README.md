@@ -41,3 +41,26 @@ Russian:
 Если у вас есть проблемы или вопросы, напиши сюда: [here](https://github.com/KViEternal/KVis-Team-Launcher/issues)!
 
 переводчик [Abrosss42](https://github.com/Abrosss42)
+
+JЯзjы Бjогдjа:
+## Кjа пjол'зjовjа?
+### Оснjовнjо / Офjицjал'нj'й Minecraft:
+ - Устjанjовjа [latest realese](https://github.com/KViEternal/KVis-Team-Launcher/releases).
+ - Открjы фjал'й-устjанjоjxjи **.exe**.
+ - Пjодjоjxдjа дjо кjонjxjа устjанjовjи.
+ - Вjыбjерхjе мjо-пjа котjорхjи jxотjе, нjа расположены в левой части лаунчера.
+ - Нjаj'йдjе jи нjаjхмjе кнjопjу **"play"**.
+ - Пjодjоjхде пjа бjудjе устjонjовлjе мjо-пjа jи нjуjхjе фjал'й.
+ - **(ТJОЛ'КО ДЛJЯ ПJОЛ'ЗJОВАТJЕ TLauncher)** Слjедjе jхjасjи инстрjукjхjи **["TLauncher"](https://github.com/KViEternal/KVis-Team-Launcher/tree/main?tab=readme-ov-file#tlauncher)**.
+ - Вj'йбjерjе прхjавjил'нjу вберхсjи Forge/Fabric, обj'йjхнjо онjа нjазвjанjа "KVi's Team Launcher".
+ - **(Длjя всjе вjерхсjи) Нjаjхмjи "Play"!** 
+### TLauncher:
+ - Зjаj'йдjе в настрхjоjи TLaucher.
+ - Нjаj'йдjе вклjадjу **"Директория: "**.
+ - Пjомjенjяjе папjу **"/.minecraft"** нjа **"/.KVisTeam/Launcher/instances/'вjа мjо-пjа'"** (Прхjосjо нjо всякjи: папjа **".KVisTeam"** нахjодисjя в тjоjхjе папjе чjо jи **".minecraft"**  P.S. %AppData/Roaming%)!
+ - Дjал'jхjе дjелjаj'йjе тjоjхjе чjо напjисjа в **["Оснjовно / Офjиjхал'нj'й Minecraft"](https://github.com/KViEternal/KVis-Team-Launcher/tree/main?tab=readme-ov-file#general--official-minecraft)** с месjа гдjе вj'й закjонjхjи.
+## Оjхjибjи / Вопрхjоj'й:
+Есjли jу вjа jе прхjоблjемj'й иjи вопрхjоj'й, напjиjхjи сjудjа: [here](https://github.com/KViEternal/KVis-Team-Launcher/issues)!
+
+пjерхjевjоjхjи [Abrosss42](https://github.com/Abrosss42)
+
